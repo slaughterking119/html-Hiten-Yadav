@@ -1,0 +1,36 @@
+.naruto{
+color:rgb(0,0,139);
+font-size:50px;
+}
+body {
+color :darkblue;
+font-family: monospace ;
+line-height: 1.5;
+font-size: 20px;
+background: black;
+}
+h2 {
+color: darkblue;
+font-size:50px;
+}
+h3 {
+color:darkblue;
+font-size :30px;
+}
+h4 {
+    color:darkblue;
+    font-size:25px;
+}
+.op{
+color:darkblue
+}
+h1{
+height:3000px
+
+}
+.back{
+background: url("https://wallpaperaccess.com/full/736004.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment: fixed;
+}
